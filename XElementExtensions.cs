@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 using System.Text.RegularExpressions;
 using System.Xml.Linq;
 
-namespace EasyBudget2.ViewModels.Shared
+namespace MVVMHelpers.ViewModels.Shared
 {
     /// <summary>
     /// Extension methods to facilitate populating objects from XElements
