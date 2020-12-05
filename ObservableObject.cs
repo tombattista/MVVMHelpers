@@ -1,9 +1,9 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
 
-namespace EasyBudget2.ViewModels.Shared
+namespace MVVMHelpers.ViewModels.Shared
 {
     /// <summary>
     /// ObservableObject is used as a base class to any class which needs to be bound to the UI
