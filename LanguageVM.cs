@@ -1,10 +1,10 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Xml.Linq;
 
-using EasyBudget2.ViewModels.Shared;
+using MVVMHelpers.ViewModels.Shared;
 
-namespace EasyBudget2.ViewModels
+namespace MVVMHelpers.ViewModels
 {
     public class LanguageVM : ObservableObject
     {
